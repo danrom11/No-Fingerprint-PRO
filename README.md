@@ -14,6 +14,13 @@ ____
 **No fingerprint PRO** - This is a browser that completely hides your true fingerprint. Each time the browser fingerprint changes and never repeats! It is possible to enter your browser imprint, which consists of different characters. 
 
 **No fingerprint PRO** supports proxies that provide 100% anonymity. No fingerprint is perfect for people using bots, for example for "Steam"
+____
+# How to set up a proxy?
+**Proxy without authorization** - format: // IP | PORT ||
+**Format** - only if socks4 or socks5, otherwise not needed
+
+**Proxy with authorizations** - format: // IP | PORT | UserName | Password
+**Format** - only if socks4 or socks5, otherwise not needed
 ___
 # RU
 ## No-fingerprint-PRO
@@ -29,3 +36,10 @@ ___
 ____
 # Как мне поможет приложение «No fingerprint PRO»?
 **No fingerprint PRO** - Это браузер, который полностью скрывает ваш настоящий отпечаток бразуера. Каждый раз отпечаток браузера меняться и никогда не повторяется! Есть возможность вписывать свой отпечаток бразуера, который состоит из разных символов. В "No fingerprint" поддерживаются прокси сервера, которые обеспечивают 100% анонимность. **No fingerprint PRO** отлично подойдёт для людей использывающии ботов, например для "Steam"  
+____
+# Как установить прокси ?
+**Прокси без авторизации** - формат://IP|PORT||
+**Формат** - только если socks4 или socks5, иначе не нужен
+
+**Прокси c авторизаций** - формат://IP|PORT|UserName|Password
+**Формат** - только если socks4 или socks5, иначе не нужен
